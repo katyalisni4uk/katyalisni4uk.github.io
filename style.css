@@ -1,0 +1,56 @@
+.quote {
+    display: inline;
+    padding: 20px 30px;
+    color: #404040;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #bbb;
+    border-radius: 50px 0 50px 0;
+    width: 300px;
+}
+.quote-auther {
+    display: block;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: right;
+}
+h1 {
+    font-size: 50px;
+    background-color: burlywood;
+    color: darkblue;
+    text-align: center;
+}
+h2 {
+    color: green;
+    font-style: italic;
+}
+.kiss>ul>li {
+    text-align: center;
+    line-height: 150%;
+    font-size: 24px;
+    color: blue;
+}
+.card {
+    background-color: darkorange;
+    font-size: 20px;
+}
+.gift-1 {
+    color: darkred;
+    background-color: darkturquoise;
+    border: dotted;
+}
+.gift-2 {
+    color: green;
+    background-color: black;
+    border: dotted;
+}
+.gift-3 {
+    color: violet;
+    background-color: red;
+    border: dotted;
+}
+p {
+    margin: 20px;
+    padding: 20px;
+}
